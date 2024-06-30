@@ -33,3 +33,5 @@ Advanced Data Structures:
 Use of Binary Search Trees (BSTs) for efficient user management.
 Use of doubly linked lists for playlist management.
 Use of queues for song playback management.
+
+NOTE:The play sound() function is commented as the API has to be connected to the project to play the songs.
